@@ -1,2 +1,4 @@
-# react-snake-the-game
-The legendary game Snake written with the React-Framework. 
+# Snake
+
+The legendary game Snake written in TypeScript & React.
+
