@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:regular,bold,italic&subset=latin,latin-ext');
+
+body {
+  background-color: black;
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto Mono', monospace;
+}
+h1, h2, h3 {
+  color: lime;
+  margin-bottom: 2.5rem;
+}
+.game_board {
+  border: 3px solid lime;
+}
